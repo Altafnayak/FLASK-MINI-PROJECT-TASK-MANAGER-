@@ -181,27 +181,26 @@ Snippet from `templates/index.html` illustrating Jinja2 loops and conditional st
 ---
 
 ## Screenshots
-*(Instructions: Capture screenshots of the running application at `http://127.0.0.1:5000` and paste them into these placeholders for your final PDF/Doc submission).*
 
 ### 1. Home Page Dashboard
 *Shows the list of current student tasks, overview metrics (total, completed, pending), filters, and task status badges.*  
-`[Paste Home Page Screenshot Here]`
+![Home Page Dashboard](static/screenshots/home.png)
 
 ### 2. Add Task Form
 *Shows the form input fields (Title, Description, Due Date) with client validation prompts active.*  
-`[Paste Add Task Form Screenshot Here]`
+![Add Task Form](static/screenshots/add.png)
 
 ### 3. Added Data (Successful Flash Alert)
 *Shows the dashboard redirected view displaying a green success message "Task added successfully!" with the new task card in the list.*  
-`[Paste Added Task Dashboard View Here]`
+![Added Task Dashboard View](static/screenshots/success.png)
 
 ### 4. Edit Task Page
 *Shows the edit screen with form inputs pre-populated with data, including the "Mark as Completed" checkbox.*  
-`[Paste Edit Task Page Screenshot Here]`
+![Edit Task Page](static/screenshots/edit.png)
 
 ### 5. Delete Task Operation
 *Shows the browser confirmation pop-up when clicking the trash bin icon, and the subsequent "Task deleted successfully!" toast message.*  
-`[Paste Delete Confirmation/Toast Screenshot Here]`
+![Delete Confirmation/Toast Screenshot](static/screenshots/delete.png)
 
 ---
 
